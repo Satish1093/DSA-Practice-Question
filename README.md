@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
