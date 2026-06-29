@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
