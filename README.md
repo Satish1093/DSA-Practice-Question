@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0061-rotate-list) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
