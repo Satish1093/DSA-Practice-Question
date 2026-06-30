@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0344-reverse-string) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
