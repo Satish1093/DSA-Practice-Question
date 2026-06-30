@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
