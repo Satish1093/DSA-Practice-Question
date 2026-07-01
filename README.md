@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -146,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0073-set-matrix-zeroes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -184,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
