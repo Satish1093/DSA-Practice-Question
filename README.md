@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0205-isomorphic-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0205-isomorphic-strings) |
