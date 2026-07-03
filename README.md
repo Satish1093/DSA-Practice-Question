@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
+| [3099-harshad-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3099-harshad-number) |
 | [3765-complete-prime-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3765-complete-prime-number) |
 ## Binary Search
 |  |
