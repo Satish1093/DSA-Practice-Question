@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3620-network-recovery-pathways) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
