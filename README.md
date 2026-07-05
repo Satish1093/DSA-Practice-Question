@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
+| [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
