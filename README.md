@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
+| [1288-remove-covered-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1646-get-maximum-in-generated-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1646-get-maximum-in-generated-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
+| [1288-remove-covered-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
