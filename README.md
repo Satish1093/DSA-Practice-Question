@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0724-find-pivot-index) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
