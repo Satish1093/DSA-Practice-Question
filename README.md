@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0724-find-pivot-index) |
+| [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
+| [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 ## Greedy
 |  |
 | ------- |
