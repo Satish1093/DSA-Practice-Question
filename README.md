@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0344-reverse-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0507-perfect-number) |
