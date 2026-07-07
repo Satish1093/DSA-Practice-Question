@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0075-sort-colors) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0055-jump-game) |
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
