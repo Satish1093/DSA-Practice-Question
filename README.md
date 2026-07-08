@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0724-find-pivot-index) |
 | [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3099-harshad-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3765-complete-prime-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3765-complete-prime-number) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
 | ------- |
