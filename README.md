@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0724-find-pivot-index) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
+| [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
+| [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0332-reconstruct-itinerary) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
