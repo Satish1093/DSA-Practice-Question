@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0204-count-primes) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
