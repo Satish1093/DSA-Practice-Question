@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
+| [0829-consecutive-numbers-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0829-consecutive-numbers-sum) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0204-count-primes) |
+| [0829-consecutive-numbers-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0829-consecutive-numbers-sum) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3765-complete-prime-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3765-complete-prime-number) |
