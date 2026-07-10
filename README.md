@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3099-harshad-number) |
