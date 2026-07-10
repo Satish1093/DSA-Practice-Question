@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-find-palindrome-with-fixed-length](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Graph Theory
 |  |
 | ------- |
