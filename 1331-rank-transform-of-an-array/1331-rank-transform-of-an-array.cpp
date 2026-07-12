@@ -13,6 +13,6 @@ public:
        for(int i=0;i<arr.size();i++){
         arr[i]=rank[arr[i]];
        }
-       return arr;
+       return arr ;
     }
 };
