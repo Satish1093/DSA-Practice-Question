@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0387-first-unique-character-in-a-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0301-remove-invalid-parentheses) |
 ## Eulerian Circuit
 |  |
 | ------- |
