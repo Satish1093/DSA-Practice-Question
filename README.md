@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0724-find-pivot-index) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
+| [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1288-remove-covered-intervals) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
 | [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0796-rotate-string) |
+| [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
