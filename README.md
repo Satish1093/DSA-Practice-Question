@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
