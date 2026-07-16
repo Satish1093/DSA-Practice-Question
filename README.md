@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3765-complete-prime-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0054-spiral-matrix) |
 | [1646-get-maximum-in-generated-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
