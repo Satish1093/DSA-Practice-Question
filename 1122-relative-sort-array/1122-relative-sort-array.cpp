@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
-      vector<int> result;
+         vector<int> result;
      
         for (int i = 0; i < arr2.size(); i++) {
             for (int j = 0; j < arr1.size(); j++) {   
