@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0202-happy-number) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
