@@ -1,7 +1,7 @@
 class Solution {
 public:
     string capitalizeTitle(string title) {
-       int n = title.size();
+         int n = title.size();
         int i = 0;
 
         while (i < n) {
