@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2427-number-of-common-factors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3765-complete-prime-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3765-complete-prime-number) |
 ## Bit Manipulation
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2129-capitalize-the-title) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3110-score-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
