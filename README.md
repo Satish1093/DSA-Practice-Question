@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0347-top-k-frequent-elements) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0332-reconstruct-itinerary) |
