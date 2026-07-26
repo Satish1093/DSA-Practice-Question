@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0327-count-of-range-sum) |
