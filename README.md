@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0206-reverse-linked-list) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0206-reverse-linked-list) |
 ## Stack
