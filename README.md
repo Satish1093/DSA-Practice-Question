@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3813-vowel-consonant-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3813-vowel-consonant-score) |
 ## Simulation
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1260-shift-2d-grid) |
 | [1646-get-maximum-in-generated-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3813-vowel-consonant-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
