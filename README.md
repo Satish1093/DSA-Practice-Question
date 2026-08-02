@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0724-find-pivot-index) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
 | [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
+| [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0829-consecutive-numbers-sum) |
+| [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
+| [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1668-maximum-repeating-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1668-maximum-repeating-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -599,4 +602,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
