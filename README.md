@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0397-integer-replacement) |
+| [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -591,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
