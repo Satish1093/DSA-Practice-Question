@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
+| [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
 | [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1668-maximum-repeating-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -603,4 +606,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
