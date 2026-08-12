@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
