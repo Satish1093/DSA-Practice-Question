@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3110-score-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
