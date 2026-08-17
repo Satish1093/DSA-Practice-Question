@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -711,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
