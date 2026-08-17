@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
