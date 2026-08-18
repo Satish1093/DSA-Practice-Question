@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0053-maximum-subarray) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0076-minimum-window-substring) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0078-subsets) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
