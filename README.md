@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
+| [0997-find-the-town-judge](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1260-shift-2d-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0720-longest-word-in-dictionary) |
 | [0904-fruit-into-baskets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0904-fruit-into-baskets) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
+| [0997-find-the-town-judge](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1331-rank-transform-of-an-array) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0332-reconstruct-itinerary) |
+| [0997-find-the-town-judge](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
