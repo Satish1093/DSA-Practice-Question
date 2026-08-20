@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1260-shift-2d-grid) |
 | [1646-get-maximum-in-generated-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3360-stone-removal-game) |
 | [3813-vowel-consonant-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
