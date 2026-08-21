@@ -1,16 +1,17 @@
+vector<int>dp(1001,-1);
 class Solution {
 public:
+int mincost(vector<int>&cost ,int n ){
+   
+    if(dp[n] != -1)return dp[n];
+    if(n<=1)return dp[n] = 0;
+    if(n==2) return dp[n] =  min(cost[0],cost[1]);
+    return dp[n] =  min(mincost(cost,n-1)+cost[n-1],mincost(cost,n-2)+cost[n-2]);
+}
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
-        vector<int>dp(n);
-        dp[0] = cost[0];
-        dp[1] = cost[1];
-        for(int i=2;i<n;i++){
-            int ss = dp[i-1] + cost[i];
-            int ds = dp[i-2] + cost[i];
-           dp[i] = min(ss,ds);
-        }
-        return min(dp[n-1],dp[n-2]);
-        
+        fill(dp.begin(),dp.end(),-1);
+
+       return mincost(cost ,n);
     }
 };
