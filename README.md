@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0172-factorial-trailing-zeroes) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3518-smallest-palindromic-rearrangement-ii) |
