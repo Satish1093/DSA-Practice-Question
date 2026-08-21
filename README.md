@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Eulerian Circuit
 |  |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -869,4 +873,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
