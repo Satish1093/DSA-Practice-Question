@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
 | [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1510-stone-game-iv) |
@@ -836,4 +839,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0207-course-schedule) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
