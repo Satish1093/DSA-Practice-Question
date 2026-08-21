@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0733-flood-fill) |
@@ -849,4 +852,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
