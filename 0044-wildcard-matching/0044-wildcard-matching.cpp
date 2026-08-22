@@ -1,27 +1,31 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-        int si = 0,pi=0,match=0,star = -1;
-        int sn = s.length(),pn=p.length();
-        while(si<sn){
-            if(pi<pn && (p[pi] == '?' || p[pi] == s[si])){
-                si++;
-                pi++;
-            }else if (pi <pn && p[pi] == '*'){
-                star = pi;
-                match = si ;
-                pi++;
-            }else if(star != -1){
-                pi = star + 1;
-                match++;
-                si = match;
-            }else{
-                return false;
-            }
+        int n = s.size();
+        int m = p.size();
+        vector<vector<int>> dp(n,vector<int>(m,-1));
+        return solve(n-1,m-1,s,p,dp);
+    }
+    private:
+    bool solve(int i ,int j,string &s,string&p,vector<vector<int>>&dp){
+        if(i<0 && j<0)return true;
+        if(i>=0 && j<0)return false;
+        if(i<0 && j>=0)
+        return isAllStars(p,j);
+        if(dp[i][j] != -1)return dp[i][j];
+        if(s[i] == p[j] || p[j] == '?')
+        return dp[i][j] = solve(i-1,j-1,s,p,dp);
+        if(p[j] == '*')
+        return dp[i][j] = solve(i-1 ,j ,s,p,dp)|| solve(i,j-1,s,p,dp);
+        return dp[i][j] = false;
+    }
+    bool isAllStars(string&p ,int j){
+        for(int k =0 ;k<=j;k++){
+            if(p[k] != '*')
+            return false;
         }
-        while(pi<pn && p[pi] == '*'){
-            pi++;
-        }
-        return pi == pn;
+        return true;
+    
+        
     }
 };
