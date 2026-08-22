@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0327-count-of-range-sum) |
 | [0332-reconstruct-itinerary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0332-reconstruct-itinerary) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0397-integer-replacement) |
