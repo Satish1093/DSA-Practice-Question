@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-   
      int ans = INT_MAX;
      TreeNode*prev = NULL;
      void inorder(TreeNode*root){
@@ -29,4 +28,5 @@ public:
             return ans;
      
     }
+
 };
