@@ -1,23 +1,20 @@
-vector<int>dp(1001,-1);
+vector<int>dp(101,-1);
 class Solution {
 public:
-int n = 0;
-int numHelper(string s,int pos){
+int helper(string s,int pos){
+    int n = s.size();
     if(pos == n)return 1;
     if(s[pos] == '0')return 0;
     if(dp[pos] != -1)return dp[pos];
-    int count = numHelper(s,pos+1);
-    if(pos<n-1 && s.substr(pos,2)<"27"){
-        count += numHelper(s,pos+2);
+    int count = helper(s,pos+1);
+    if(pos<n-1 && s.substr(pos,2) < "27"){
+        count+= helper(s,pos+2);
     }
     return dp[pos] = count;
-
 }
-
     int numDecodings(string s) {
-     n  =  s.size();
-        fill(dp.begin(),dp.end(),-1);
-        return numHelper(s,0);
-        
+        int n = s.size();
+        fill(dp.begin(),dp.end() ,-1);
+        return helper(s,0);
     }
 };
