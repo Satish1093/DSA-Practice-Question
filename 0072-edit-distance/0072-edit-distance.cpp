@@ -1,42 +1,22 @@
 class Solution {
 public:
-
-    int fact(string word1, string word2, int i, int j, vector<vector<int>>& dp){
-
-        if(j < 0){
-            
-            return i+1;
-        }
-
-        if(i < 0){
-        
-            return j+1;
-        }
-
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        }
-
-        if(word1[i] == word2[j]){
-        
-            return dp[i][j] = 0 + fact(word1,word2,i-1,j-1,dp);
-        }
-
-        else{
-            int insert = fact(word1,word2,i,j-1,dp);
-            int del = fact(word1,word2,i-1,j,dp);
-            int replace = fact(word1,word2,i-1,j-1,dp);
-
-            return dp[i][j] = 1 + min(insert,min(del,replace));
-        }
-    }
-
     int minDistance(string word1, string word2) {
-        int i = word1.length() - 1;
-        int j = word2.length() - 1;
+        const int m = word1.size();
+        const int n = word2.size();
+        vector<vector<int>>dp(m+1,vector<int>(n+1));
+        for(int i =1;i<=m;i++)
+            dp[i][0] = i;
+            for(int j =1;j<=n;j++)
+                dp[0][j] = j;
+                for(int i=1;i<=m;i++)
+                    for(int j =1;j<=n;j++)
+                    if(word1[i-1] == word2[j-1])
+                    dp[i][j] = dp[i-1][j-1];
 
-        vector<vector<int>> dp(word1.length(), vector<int>(word2.length(), -1));
-
-        return fact(word1,word2,i,j,dp);
+                    else
+                    dp[i][j] = min({dp[i-1][j-1] ,dp[i-1][j] ,dp[i][j-1]}) +1;
+                    return dp[m][n];
+                
+        
     }
 };
