@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0055-jump-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0091-decode-ways) |
