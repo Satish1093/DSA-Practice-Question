@@ -1,7 +1,7 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-         int n = s.size();
+        int n = s.size();
         int left = 0;
         int maxi = 0;
         int maxcount = 0;
@@ -22,6 +22,5 @@ public:
         }
 
         return maxi;
-
     }
 };
