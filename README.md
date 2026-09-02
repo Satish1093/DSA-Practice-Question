@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1043-partition-array-for-maximum-sum) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
