@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0189-rotate-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0327-count-of-range-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0327-count-of-range-sum) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0148-sort-list) |
 | [0327-count-of-range-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0327-count-of-range-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0217-contains-duplicate) |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
