@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0409-longest-palindrome) |
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0796-rotate-string) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0649-dota2-senate) |
 ## Backtracking
 |  |
 | ------- |
