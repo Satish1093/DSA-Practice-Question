@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0567-permutation-in-string) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
