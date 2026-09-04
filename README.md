@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0904-fruit-into-baskets) |
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [0997-find-the-town-judge](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0997-find-the-town-judge) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0649-dota2-senate) |
+| [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -768,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2029-stone-game-ix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
