@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
 | [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1338-reduce-array-size-to-the-half) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1338-reduce-array-size-to-the-half) |
