@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0876-middle-of-the-linked-list) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0517-super-washing-machines) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0649-dota2-senate) |
@@ -1062,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
