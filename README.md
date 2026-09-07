@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0764-largest-plus-sign) |
 | [0877-stone-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1137-n-th-tribonacci-number) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1143-longest-common-subsequence) |
