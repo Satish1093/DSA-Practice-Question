@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-get-maximum-in-generated-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1646-get-maximum-in-generated-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1872-stone-game-viii) |
 | [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1927-sum-game) |
@@ -715,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
