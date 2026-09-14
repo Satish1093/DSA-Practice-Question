@@ -1,16 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int i =0,j= s.size()-1;
-        while(i<j){
-            while(i<j && !isalnum(s[i]))i++;
-            while(i<j && !isalnum(s[j]))j--;
-            if(tolower(s[i]) != tolower(s[j]))
-            return false;
-            i++;
-            j--;
+        int left  = 0;
+       int right =  s.size()-1;
+       while(left < right){
+        if(!isalnum(s[left])){
+            left++;
         }
-        return true;
-
+        else if(!isalnum(s[right])){
+            right--;
+        }else{
+        if(tolower(s[left]) != tolower(s[right])){
+            return false;
+        }
+        left++;
+        right--;
+       } 
+       }
+       return true;
     }
 };
