@@ -1144,4 +1144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0239-sliding-window-maximum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
