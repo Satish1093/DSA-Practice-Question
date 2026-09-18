@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1668-maximum-repeating-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1668-maximum-repeating-substring) |
