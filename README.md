@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1563-stone-game-v) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
