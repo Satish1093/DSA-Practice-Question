@@ -6,12 +6,11 @@ public:
     void perf() {
         int x=st.size()-2, y = st.size()-1;
         if (op.back()=='+'){
-            // Union
+    
             st[x].reserve(st[x].size()+st[y].size());
             st[x].insert(st[x].end(), st[y].begin(), st[y].end());
         }
-        else { // op.back()=='*'
-            // Concatenation
+        else { 
             vector<string> nxt;
             nxt.reserve(st[x].size()*st[y].size());
             for (const auto& l : st[x]) {
@@ -42,7 +41,7 @@ public:
                 break;
             case '}':
                 while (!op.empty() && op.back()!='{') perf();
-                op.pop_back(); // Remove matching '{'
+                op.pop_back(); 
                 break;
             default:
                 if (prv=='}') op.push_back('*');
