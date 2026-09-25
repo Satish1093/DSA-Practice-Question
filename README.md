@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0970-powerful-integers) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1331-rank-transform-of-an-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1331-rank-transform-of-an-array) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
@@ -841,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2685-count-the-number-of-complete-components) |
@@ -960,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Eulerian Circuit
 |  |
