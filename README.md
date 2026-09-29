@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1062,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
 | ------- |
