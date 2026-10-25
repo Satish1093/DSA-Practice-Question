@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2685-count-the-number-of-complete-components) |
@@ -1013,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
