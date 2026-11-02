@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0494-target-sum) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0509-fibonacci-number) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0628-maximum-product-of-three-numbers) |
