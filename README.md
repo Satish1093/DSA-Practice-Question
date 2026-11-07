@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2029-stone-game-ix) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
