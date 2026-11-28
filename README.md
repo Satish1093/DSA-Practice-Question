@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1563-stone-game-v) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Satish1093/DSA-Practice-Question/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/Satish1093/DSA-Practice-Question/tree/master/1486-xor-operation-in-an-array) |
 | [2438-range-product-queries-of-powers](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2438-range-product-queries-of-powers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Satish1093/DSA-Practice-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Satish1093/DSA-Practice-Question/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
